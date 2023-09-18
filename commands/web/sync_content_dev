@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## #ddev-generated
+## Description: Sincroniza carpeta files de drupal y BD, ambas del entorno de desarrollo
+## Usaje: sh
+## Example: "ddev sync_content_dev"
+sh backups/content_sync/deploy_content.sh

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## #ddev-generated
+## Description: Instalar carpeta node_modules en el theme custom de Drupal
+## Usaje: npm
+## Example: "ddev npm_install"
+npm i --prefix web/themes/custom/frontend

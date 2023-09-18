@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## #ddev-generated
+## Description: Ejecuta comando npm run watch:css
+## Usaje: npm
+## Example: "ddev watch_css"
+npm run --prefix web/themes/custom/frontend watch:css

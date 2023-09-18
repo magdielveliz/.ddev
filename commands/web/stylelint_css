@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## #ddev-generated
+## Description: Ejecuta comando npx stylelint
+## Usaje: cd|npx
+## Example: "ddev stylelint"
+cd web/themes/custom/frontend
+npx stylelint css/*.css

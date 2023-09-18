@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## #ddev-generated
+## Description: Ejecuta comando npm run build:css
+## Usaje: npm
+## Example: "ddev build_css"
+npm run --prefix web/themes/custom/frontend build:css

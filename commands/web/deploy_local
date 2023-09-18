@@ -1,0 +1,9 @@
+#!/bin/bash
+
+## #ddev-generated
+## Description: Despliega en el entorno local
+## Usaje: composer|drush
+## Example: "ddev deploy_local"
+composer install
+drush deploy
+drush -v cron

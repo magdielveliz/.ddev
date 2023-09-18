@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## #ddev-generated
+## Description: Ejecuta comando npx prettier write
+## Usaje: cd|npx
+## Example: "ddev prettier_scss"
+cd web/themes/custom/frontend
+npx prettier --write scss/*.scss

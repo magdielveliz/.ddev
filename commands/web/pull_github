@@ -1,0 +1,8 @@
+#!/bin/bash
+
+## #ddev-generated
+## Description: Ejecuta pull de la rama origin/develop del repositorio en GitHub
+## Usaje: git
+## Example: "ddev pull_github"
+git pull origin develop
+
